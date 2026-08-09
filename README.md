@@ -38,7 +38,7 @@ Make sure you have **PHP**, **Composer**, and a local server environment such as
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/syfrzkngl/Zetoro-Janaloka-Technology-individual.git
+git clone https://github.com/syfrzkngl/Zetoro-Janaloka-Technology-personal.git
 cd Zetoro-Janaloka-Technology-individual
 ````
 
